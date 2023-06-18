@@ -1,0 +1,55 @@
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.exe.config
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.exe
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.pdb
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.AssemblyReference.cache
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Form1.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Properties.Resources.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.GenerateResource.cache
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.CoreCompileInputs.cache
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.exe
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.pdb
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Student_registration.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Login.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Teacher_registration.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Addcourse.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Score_Teacher_side.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Add_Administrators.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Grader.resources
+C:\Users\befek\source\repos\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Manage_student.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.exe.config
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.exe
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.pdb
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.AssemblyReference.cache
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Addcourse.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Form1.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Grader.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Login.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Manage_student.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Properties.Resources.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Score_Teacher_side.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Add_Administrators.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Teacher_registration.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Student_registration.resources
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.GenerateResource.cache
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.CoreCompileInputs.cache
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.exe
+C:\Users\befek\OneDrive\Desktop\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.exe.config
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.exe
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\bin\Debug\Student_Mnagement_System.pdb
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.AssemblyReference.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Addcourse.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Form1.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Grader.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Login.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Manage_student.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Properties.Resources.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Score_Teacher_side.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Add_Administrators.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Teacher_registration.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.Student_registration.resources
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.GenerateResource.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.csproj.CoreCompileInputs.cache
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.exe
+C:\Users\befek\OneDrive\Desktop\School Files\Student_Mnagement_System\Student_Mnagement_System\obj\Debug\Student_Mnagement_System.pdb
